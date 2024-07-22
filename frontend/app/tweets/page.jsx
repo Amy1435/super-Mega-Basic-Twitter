@@ -36,7 +36,7 @@ const Tweets = () => {
             Tutti i Tweets
           </h1>
           <p className="text-white font-roboto-100 md:text-lg lg:text-xl">
-            Scopri cosa dicono le persone e lascia un like se ti piace il post.
+            Scopri cosa dicono le persone e lascia un like se ti piace il tweet.
           </p>
         </div>
         <div>

@@ -3,7 +3,7 @@ import { useState } from "react";
 import axios from "axios";
 import Form from "@components/Form";
 import { useRouter } from "next/navigation";
-const CreatePost = () => {
+const CreateTweet = () => {
   const router = useRouter();
   // State for form data
   const [tweet, setTweet] = useState({
@@ -37,4 +37,4 @@ const CreatePost = () => {
   );
 };
 
-export default CreatePost;
+export default CreateTweet;

@@ -4,13 +4,17 @@ Megatwitter è un'applicazione web dove gli utenti possono esprimere i propri pe
 
 # Getting Started
 
-Per eseguire l'applicazione, è necessario avviare sia il frontend che il backend utilizzando due terminali separati.
+Per eseguire l'applicazione, è necessario avviare sia il frontend che il backend utilizzando due terminali separati ed assicurarsi di avere Node.js e npm installati sul sistema.
 
-cd backend
-npm run dev
+- Backend:
+  cd backend
+  npm i
+  npm run dev
 
-cd frontend
-npm run dev
+- Frontend:
+  cd frontend
+  npm i
+  npm run dev
 
 # Front-End
 
